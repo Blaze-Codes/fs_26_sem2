@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDCA/questions.md",
+                "file": "A&W/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "questions"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDCA/questions.md",
+                "file": "A&W/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for questions"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDCA/questions.md",
+                "file": "A&W/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from questions"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDCA/questions.md",
+                "file": "A&W/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of questions"
+              "title": "Outline of index"
             }
           },
           {
@@ -183,19 +183,21 @@
   },
   "active": "91483926e551f993",
   "lastOpenFiles": [
-    "PP/questions.md",
+    "A1/index.md",
+    "A&W/index.md",
+    "PP/index.md",
+    "stuff/this should not! appear.md",
+    "index.md",
     "DDCA/questions.md",
+    "stuff",
+    "PP/questions.md",
     "A&W/questions.md",
     "A1/questions.md",
     "A1/glossary.md",
     "A&W/glossary.md",
     "DDCA/glossary.md",
     "PP/glossary.md",
-    "PP/index.md",
-    "index.md",
     "DDCA/index.md",
-    "A1/index.md",
-    "A&W/index.md",
     "A&W.md",
     "A&W",
     "A1",

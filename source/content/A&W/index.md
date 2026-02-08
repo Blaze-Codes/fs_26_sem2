@@ -1,1 +1,1 @@
-this is the A&W index
+[Course Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=27401)
