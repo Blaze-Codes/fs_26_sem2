@@ -1,4 +1,4 @@
-In this semester, I try to structure the topic I'm going to learn a bit differently.
+In this semester, I try to structure the topics I'm going to learn about a bit differently.
 To keep things organised, I have decided to do this via a website I'm hosting here.
 
 Here are the topics the spring semester of 2026 is going to cover:

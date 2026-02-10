@@ -196,8 +196,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e72a0c4a171ce16",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "worksheets/PP",
+    "worksheets/DDCA",
+    "worksheets/A1",
+    "worksheets/AnW",
+    "worksheets",
     "moodle-app2.let.ethz.ch/pluginfile.php/2492771/mod_resource/content/1/A_W_Skript.pdf.md",
     "A&W/index.md",
     "moodle-app2.let.ethz.ch/pluginfile.php/2492771/mod_resource/content/1",
@@ -213,12 +218,10 @@
     "A1/01_topic.md",
     "A1/questions.md",
     "A&W/01_topic.md",
-    "A&W/01_Graphentheorie",
     "A1/index.md",
     "PP/index.md",
     "index.md",
     "DDCA/questions.md",
-    "stuff",
     "PP/questions.md",
     "A&W/questions.md",
     "A1/glossary.md",
@@ -226,8 +229,6 @@
     "PP/glossary.md",
     "DDCA/index.md",
     "A&W.md",
-    "A&W",
-    "A1",
     "welcome.md",
     "category-folder/Some note.md",
     "category-folder/index.md"
