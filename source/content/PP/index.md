@@ -1,5 +1,5 @@
 ---
-title: Important Information
+title: Important Information (PP)
 ---
 # Tasks, Deadlines and Bonus Points
 

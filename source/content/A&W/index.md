@@ -1,5 +1,5 @@
 ---
-title: Important Information
+title: Important Information (AW)
 ---
 
 [Course Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=27401)

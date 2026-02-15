@@ -1,5 +1,5 @@
 ---
-title: Important Information
+title: Important Information (DDCA)
 ---
 # Tasks, Deadlines and Bonus Points
 ## Tasks
