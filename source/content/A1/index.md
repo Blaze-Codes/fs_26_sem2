@@ -10,6 +10,7 @@ Released every three weeks, once can do these exercises on their own computer.
 Bonus Points: $N/A$
 Note: as far as I know, it makes up 100% of the bonus points.
 
+
 # Exam
 
 ## Structure

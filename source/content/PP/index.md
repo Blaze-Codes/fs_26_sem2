@@ -5,6 +5,7 @@ title: Parallel Programming
 
 ## Exercises
 Not known.
+
 # Exam
 
 ## Structure

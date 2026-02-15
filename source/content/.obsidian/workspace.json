@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PP/index.md",
+                "file": "A&W/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,10 +183,13 @@
   },
   "active": "b612e567980ad967",
   "lastOpenFiles": [
-    "A&W/index.md",
+    "A&W/01_topic.md",
     "A1/index.md",
+    "A1/questions.md",
     "DDCA/index.md",
+    "DDCA/01_topic.md",
     "PP/index.md",
+    "A&W/index.md",
     "PP/Glossary.md",
     "stuff/this should not! appear.md",
     "worksheets/PP",
@@ -202,10 +205,7 @@
     "moodle-app2.let.ethz.ch/pluginfile.php",
     "A&W/glossary.md",
     "PP/01_topic.md",
-    "DDCA/01_topic.md",
     "A1/01_topic.md",
-    "A1/questions.md",
-    "A&W/01_topic.md",
     "index.md",
     "DDCA/questions.md",
     "PP/questions.md",
