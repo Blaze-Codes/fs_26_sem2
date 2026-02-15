@@ -1,5 +1,5 @@
 ---
-title: Important Information (DDCA)
+title: Digital Design and Computer Architecture
 ---
 # Tasks, Deadlines and Bonus Points
 ## Tasks

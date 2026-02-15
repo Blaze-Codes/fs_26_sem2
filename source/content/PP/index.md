@@ -1,5 +1,5 @@
 ---
-title: Important Information (PP)
+title: Parallel Programming
 ---
 # Tasks, Deadlines and Bonus Points
 

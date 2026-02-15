@@ -1,5 +1,5 @@
 ---
-title: Important Information (A1)
+title: Analysis 1
 ---
 [Course Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=26844)
 
