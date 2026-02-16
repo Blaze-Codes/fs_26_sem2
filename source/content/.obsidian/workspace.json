@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A&W/index.md",
+                "file": "PP/Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Glossary"
             }
           }
         ]
@@ -183,13 +183,13 @@
   },
   "active": "b612e567980ad967",
   "lastOpenFiles": [
+    "A&W/index.md",
     "A&W/01_topic.md",
     "A1/index.md",
     "A1/questions.md",
     "DDCA/index.md",
     "DDCA/01_topic.md",
     "PP/index.md",
-    "A&W/index.md",
     "PP/Glossary.md",
     "stuff/this should not! appear.md",
     "worksheets/PP",
