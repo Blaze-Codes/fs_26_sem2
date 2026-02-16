@@ -4,7 +4,7 @@ title: Parallel Programming
 # Tasks, Deadlines and Bonus Points
 
 ## Exercises
-Not known.
+Optional, but essential.
 
 # Exam
 
@@ -13,3 +13,6 @@ Length: 120 minutes (2 hours)
 Type: written exam
 ## Cheatsheet
 None.
+
+## Grading
+100% grade of the exam
