@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PP/Glossary.md",
+                "file": "A&W/Blocks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossary"
+              "title": "Blocks"
             }
           }
         ]
@@ -183,17 +183,20 @@
   },
   "active": "b612e567980ad967",
   "lastOpenFiles": [
+    "A&W/connectivity.md",
+    "A&W/Blocks.md",
+    "A&W/glossary.md",
+    "DDCA/glossary.md",
+    "DDCA/index.md",
+    "PP/Glossary.md",
     "index.md",
     "A1/glossary.md",
     "A1/index.md",
     "PP/index.md",
     "stuff/Books/Java Concurrency in Practice.pdf",
     "stuff/Books",
-    "PP/Glossary.md",
     "A&W/index.md",
-    "A&W/01_topic.md",
     "A1/questions.md",
-    "DDCA/index.md",
     "DDCA/01_topic.md",
     "stuff/this should not! appear.md",
     "worksheets/PP",
@@ -205,13 +208,11 @@
     "moodle-app2.let.ethz.ch/pluginfile.php/2492771/mod_resource/content/1",
     "moodle-app2.let.ethz.ch/pluginfile.php/2492771/mod_resource/content",
     "moodle-app2.let.ethz.ch/pluginfile.php/2492771/mod_resource",
-    "A&W/glossary.md",
     "PP/01_topic.md",
     "A1/01_topic.md",
     "DDCA/questions.md",
     "PP/questions.md",
     "A&W/questions.md",
-    "DDCA/glossary.md",
     "PP/glossary.md",
     "A&W.md",
     "welcome.md",
