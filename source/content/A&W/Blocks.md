@@ -7,7 +7,9 @@ The proof is left as an exercise to the reader ;)
 
 
 ## Intersection of Blocks
-Two distinct Blocks can intersect in at most one vertex, and that vertex has to be a cut vertex.
+Two distinct Blocks can intersect in at most one vertex, and that vertex has to be a cut vertex. Consider the following picture:
+![[Pasted image 20260217155559.png]]
+(Note the obvious: Only adjacent blocks share a cut vertex)
 
 ### Why at most one?
 Otherwise we can construct a cycle containing vertices from both blocks and two of the shared vertices. 
