@@ -12,3 +12,4 @@ Seien $A,B \subset \mathbb{R}$ nicht leere Untermengen, sodass
 
 # Archimedisches Prinzip
 1. Ein beliebiges $x$ in den reellen Zahlen kann immer 
+2. Ein beliebiges $\epsilon$ 
