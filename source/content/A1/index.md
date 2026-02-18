@@ -14,8 +14,9 @@ Note: as far as I know, it makes up 100% of the bonus points.
 # Exam
 
 ## Structure
-Length: 180 minutes (3 hours)
-Type: written
+* Length: 180 minutes (3 hours)
+* Type: written
+* Language: German (hence, my notes will also be in German)
 
 ## Grading With Bonus Points
 $$final\_grade = round(exam\_grade + bonus\_grade)$$

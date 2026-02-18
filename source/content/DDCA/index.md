@@ -17,10 +17,9 @@ None.
 
 # Exam
 ## Structure
-Length: 180 minutes (3 hours)
-Type: written
+* Length: 180 minutes (3 hours)
+* Type: written
 ## Final Grade Calculation
 $$final\_grade = 0.7*exam\_grade + 0.3*lab\_session\_grade$$
-i.e. 70% exam and 30% lab sessions
 ## Cheatsheet
 6 A4-pages, either handwritten or typed.
