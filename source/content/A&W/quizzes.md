@@ -2,7 +2,7 @@
 
 ## Q1
 ![[Pasted image 20260226164808.png]]
-Das ist __falsch__. Warum? Handlschlaglemma: $2|E| = \sum_{v \in V} deg(v)$
+Das ist __falsch__. Warum? Handschlaglemma: $2|E| = \sum_{v \in V} deg(v)$
 $17\cdot51$ ist ungerade, kann also nicht $2|E|$ sein.
 
 ## Q2 
