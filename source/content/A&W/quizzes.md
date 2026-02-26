@@ -1,9 +1,9 @@
 # Number 1
 
-## Q1 (true/false)
+## Q1
 ![[Pasted image 20260226164808.png]]
 Das ist __falsch__. Warum? Handlschlaglemma: $2|E| = \sum_{v \in V} deg(v)$
-$17\cdot51$ ist ungerade, kann also nicht $|E|$ sein.
+$17\cdot51$ ist ungerade, kann also nicht $2|E|$ sein.
 
 ## Q2 
 ![[Pasted image 20260226165129.png]]
